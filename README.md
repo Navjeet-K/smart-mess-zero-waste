@@ -49,6 +49,22 @@ The project supports more responsible food preparation and resource use by helpi
 
 [Open Smart Mess, Zero Waste](https://smart-mess-zero-waste-dztycfdsbsueeudjbufydm.streamlit.app/)
 
+Data Collection
+      ↓
+Data Preprocessing
+      ↓
+Random Forest Model Training
+      ↓
+Student Attendance Prediction
+      ↓
+Food Quantity Estimation
+      ↓
+Food Waste Tracking
+      ↓
+Streamlit Dashboard & CSV Reports
+      ↓
+Goal: Reduce Avoidable Food Waste
+
 ## 🛠️ Run the Project Locally
 
 ### 1. Clone the repository
